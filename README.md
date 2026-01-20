@@ -39,14 +39,14 @@ I'm a passionate web developer specializing in building modern, responsive web a
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ronnelb-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronnelb-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
 </div>
 
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ronnelb-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ## 🌐 Connect With Me
@@ -61,5 +61,5 @@ I'm always interested in working on exciting projects and collaborating with oth
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ronnelb-dev&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </div>
